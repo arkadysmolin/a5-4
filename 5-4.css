@@ -18,5 +18,6 @@
 
 .contentbox {
 	background-color: #cfe2f4;
+	height: calc(100vh - 80px);
 }
 
