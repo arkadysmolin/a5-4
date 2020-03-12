@@ -1,0 +1,22 @@
+.header,
+.footer {
+	height: 40px;
+}
+
+.leftbox {
+	height: calc(100vh - 40px);
+	background-color: #0c5394;
+}
+
+.header {
+	background-color: #6d9eec;
+}
+
+.footer {
+	background-color: #6ea7dd;
+}
+
+.contentbox {
+	background-color: #cfe2f4;
+}
+
